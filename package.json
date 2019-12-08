@@ -1,0 +1,26 @@
+{
+  "name": "homework-01",
+  "version": "1.0.0",
+  "description": "Complete the following assignment on Node.js Part 1 and push your file to GitHub for reviewing by the instructor. Refer to GitHub Guide for any inquiries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inanfatih/node-homework-01.git"
+  },
+  "author": "Fatih Inan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inanfatih/node-homework-01/issues"
+  },
+  "homepage": "https://github.com/inanfatih/node-homework-01#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}
